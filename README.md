@@ -94,4 +94,4 @@
 
 ---
 
-<p align="center"><i>🎓 B.Tech CSE @ Malla Reddy Engineering College for Women — CGPA 9.32/10</i></p>
+<p align="center"><i>© 2026 Ishwarya Kamble. All rights reserved.</i></p>
